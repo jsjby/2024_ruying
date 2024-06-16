@@ -30,3 +30,7 @@
 
 【入营人数：133】 [卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3568.htm)
 
+## 中南大学
+
+【入营人数：327】 [自动化学院](https://soa.csu.edu.cn/info/1032/7989.htm)
+
