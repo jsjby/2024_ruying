@@ -16,11 +16,17 @@
 
 【入营人数：227】 [大数据学院](https://sds.fudan.edu.cn/6c/15/c17701a683029/page.htm)
 
+【入营人数：30】 [智能医学研究院](https://imi.fudan.edu.cn/info/1033/1583.htm)
+
+【入营人数：81】 [类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/5710.htm)
+
 【入营人数：161】 [工程与应用技术研究院](https://faet.fudan.edu.cn/66/a4/c23815a681636/page.htm)
 
 【入营人数：365】 [计算机科学技术学院](https://cs.fudan.edu.cn/66/99/c24277a681625/page.htm)
 
 【入营人数：98】 [脑科学转化研究院](http://itbr.fudan.edu.cn/info/1064/5061.htm)
+
+【入营人数：39】 [上海数学中心](https://scms.fudan.edu.cn/info/1047/7041.htm)
 
 ## 浙江大学
 
