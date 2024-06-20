@@ -18,6 +18,12 @@
 
 【入营人数：3】 [集成电路学院（第二批）](https://ic.pku.edu.cn/rcpy/yjszs/7ce07d4c2974403fac32382bf7aedc16.htm)
 
+【入营人数：139】 [智能学院](https://www.cis.pku.edu.cn/info/1034/3048.htm)
+
+【入营人数：210】 [电子学院](https://ele.pku.edu.cn/info/1232/3130.htm)
+
+【入营人数：256】 [计算机学院](https://cs.pku.edu.cn/info/1051/3151.htm)
+
 ## 复旦大学
 
 【入营人数：227】 [大数据学院](https://sds.fudan.edu.cn/6c/15/c17701a683029/page.htm)
@@ -39,6 +45,14 @@
 ## 浙江大学
 
 【入营人数：55】 [脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0613/c75666a2933018/page.htm)
+
+## 中国人民大学
+
+【入营人数：306】 [高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20240620001.html)
+
+＞ 入营人数306人，不含本校
+
+【入营人数：404】 [信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/9731ae7fd24b4ce9adcd752b76d86017.htm)
 
 ## 同济大学
 
