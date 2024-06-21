@@ -22,7 +22,11 @@
 
 【入营人数：210】 [电子学院](https://ele.pku.edu.cn/info/1232/3130.htm)
 
+【入营人数：3】 [电子学院（第二批）](https://ele.pku.edu.cn/info/1232/3131.htm)
+
 【入营人数：256】 [计算机学院](https://cs.pku.edu.cn/info/1051/3151.htm)
+
+【入营人数：332】 [生命科学学院与生命科学联合中心](https://www.bio.pku.edu.cn/homes/Index/news_cont/27/17198.html)
 
 ## 复旦大学
 
@@ -46,6 +50,14 @@
 
 【入营人数：55】 [脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0613/c75666a2933018/page.htm)
 
+## 上海交通大学
+
+【入营人数：124】 [人工智能研究院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
+
+## 西安交通大学
+
+【入营人数：268】 [信息与通信工程学院](https://dice.xjtu.edu.cn/info/1009/2996.htm)
+
 ## 中国人民大学
 
 【入营人数：306】 [高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20240620001.html)
@@ -54,13 +66,27 @@
 
 【入营人数：404】 [信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/9731ae7fd24b4ce9adcd752b76d86017.htm)
 
+## 厦门大学
+
+【入营人数：102】 [人工智能研究院](https://iai.xmu.edu.cn/info/1120/4034.htm)
+
 ## 同济大学
 
 【入营人数：133】 [卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3568.htm)
 
 【入营人数：117】 [软件学院](https://yz.tongji.edu.cn/info/1010/3568.htm)
 
+【入营人数：16】 [软件学院（第二批）](https://sse.tongji.edu.cn/info/1132/5166.htm)
+
 ## 中南大学
 
 【入营人数：327】 [自动化学院](https://soa.csu.edu.cn/info/1032/7989.htm)
+
+【入营人数：229】 [电子信息学院](https://ei.csu.edu.cn/info/1085/1574.htm)
+
+## 吉林大学
+
+【入营人数：258】 [计算机学院](https://ccst.jlu.edu.cn/info/1229/19667.htm)
+
+【入营人数：144】 [通信工程学院](https://dce.jlu.edu.cn/info/1032/10494.htm)
 
