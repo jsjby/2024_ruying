@@ -12,6 +12,10 @@
 
 【入营人数：71】 [数据与信息研究院计算机科学与技术学科（深圳）](https://www.sigs.tsinghua.edu.cn/2024/0613/c120a94892/page.htm)
 
+【入营人数：131】 [人工智能学院](https://collegeai.tsinghua.edu.cn/admission/namelist-ai.php)
+
+【入营人数：142】 [交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/namelist.php)
+
 ## 北京大学
 
 【入营人数：189】 [集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/16ea75fa51ff4f1ab0022403e4a7577e.htm)
@@ -88,5 +92,20 @@
 
 【入营人数：258】 [计算机学院](https://ccst.jlu.edu.cn/info/1229/19667.htm)
 
+【入营人数：436】 [软件学院](https://csw.jlu.edu.cn/info/1156/7293.htm)
+
 【入营人数：144】 [通信工程学院](https://dce.jlu.edu.cn/info/1032/10494.htm)
+
+## 湖南大学
+
+【入营人数：337】 [信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13248.htm)
+
+## 安徽大学
+
+【入营人数：112】 [人工智能](https://ai.ahu.edu.cn/2024/0624/c19134a343518/page.htm)
+
+## 广东工业大学
+
+【入营人数：37】 [信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8286.htm)
+
 
