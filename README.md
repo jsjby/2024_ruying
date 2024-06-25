@@ -32,6 +32,12 @@
 
 【入营人数：332】 [生命科学学院与生命科学联合中心](https://www.bio.pku.edu.cn/homes/Index/news_cont/27/17198.html)
 
+【入营人数：3】 [前沿交叉学科研究院（递补）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1792)
+
+【入营人数：20】 [前沿交叉学科研究院（生医中心、大数据中心和机器学习中心）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1788)
+
+【入营人数：332】 [生命科学联合中心（北大方面）与北京大学生命科学学院）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1787)
+
 ## 复旦大学
 
 【入营人数：227】 [大数据学院](https://sds.fudan.edu.cn/6c/15/c17701a683029/page.htm)
@@ -54,9 +60,17 @@
 
 【入营人数：55】 [脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0613/c75666a2933018/page.htm)
 
+【入营人数：69】 [良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=249&id=1571)
+
 ## 上海交通大学
 
 【入营人数：124】 [人工智能研究院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
+
+## 南京大学
+
+【入营人数：22】 [功能材料与智能制造研究院（第二批）](https://eng.nju.edu.cn/a6/ef/c4968a698095/page.htm)
+
+【入营人数：61】 [功能材料与智能制造研究院](https://eng.nju.edu.cn/9f/59/c4968a696153/page.htm)
 
 ## 西安交通大学
 
@@ -70,9 +84,19 @@
 
 【入营人数：404】 [信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/9731ae7fd24b4ce9adcd752b76d86017.htm)
 
+【入营人数：141】 [统计与大数据研究院](http://isbd.ruc.edu.cn/zsxx/zss/9c76bcee916d408fb41ef7c0da2edb3b.htm)
+
+## 北京航空航天大学
+
+【入营人数：514】 [软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11323)
+
 ## 厦门大学
 
 【入营人数：102】 [人工智能研究院](https://iai.xmu.edu.cn/info/1120/4034.htm)
+
+## 天津大学
+
+【入营人数：116】 [新媒体学院](http://snmc.tju.edu.cn/info/1120/2165.htm)
 
 ## 同济大学
 
@@ -100,9 +124,15 @@
 
 【入营人数：337】 [信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13248.htm)
 
+【入营人数：60】 [物理与微电子科学学院](https://spe.hnu.edu.cn/info/1083/8828.htm)
+
 ## 安徽大学
 
 【入营人数：112】 [人工智能](https://ai.ahu.edu.cn/2024/0624/c19134a343518/page.htm)
+
+## 西南大学
+
+【入营人数：87】 [计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1146/4790.htm)
 
 ## 广东工业大学
 
