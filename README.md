@@ -46,6 +46,8 @@
 
 【入营人数：540】 [信息科学与工程学院](https://imi.fudan.edu.cn/info/1033/1583.htm)
 
+【入营人数：23】 [信息科学与工程学院增补名单](http://www.it.fudan.edu.cn/Data/View/4657)
+
 【入营人数：81】 [类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/5710.htm)
 
 【入营人数：161】 [工程与应用技术研究院](https://faet.fudan.edu.cn/66/a4/c23815a681636/page.htm)
@@ -96,6 +98,8 @@
 
 ## 天津大学
 
+【入营人数：84】 [自动化学院](https://seea.tju.edu.cn/info/1031/4592.htm)
+
 【入营人数：116】 [新媒体学院](http://snmc.tju.edu.cn/info/1120/2165.htm)
 
 ## 同济大学
@@ -106,7 +110,13 @@
 
 【入营人数：16】 [软件学院（第二批）](https://sse.tongji.edu.cn/info/1132/5166.htm)
 
+## 武汉大学
+
+【入营人数：157】 [数学与统计学院](https://maths.whu.edu.cn/info/1211/127901.htm)
+
 ## 中南大学
+
+【入营人数：120】 [大数据研究院](https://bdi.csu.edu.cn/info/1063/3337.htm)
 
 【入营人数：327】 [自动化学院](https://soa.csu.edu.cn/info/1032/7989.htm)
 
@@ -126,6 +136,10 @@
 
 【入营人数：60】 [物理与微电子科学学院](https://spe.hnu.edu.cn/info/1083/8828.htm)
 
+## 四川大学
+
+【入营人数：127】 [计算机学院（软件学院、智能科学与技术学院）](https://cs.scu.edu.cn/info/1247/18488.htm)
+
 ## 安徽大学
 
 【入营人数：112】 [人工智能](https://ai.ahu.edu.cn/2024/0624/c19134a343518/page.htm)
@@ -138,4 +152,8 @@
 
 【入营人数：37】 [信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8286.htm)
 
+## 华东理工大学
 
+【入营人数：132】 [信息科学与工程学院](https://cise.ecust.edu.cn/2024/0626/c7692a168918/page.htm)
+
+【入营人数：16】 [科技信息研究所](https://lib.ecust.edu.cn/zh-hans/node/63577)
