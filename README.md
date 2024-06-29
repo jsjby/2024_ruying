@@ -110,6 +110,10 @@
 
 【入营人数：152】 [医学技术学院](https://smt.bit.edu.cn/tzgg/a99125628bde4393a2bf39c589142b5e.htm)
 
+## 北京师范大学
+
+【入营人数：72】 [地理科学学部遥感科学与技术、地图学与地理信息系统 学科](https://geo.bnu.edu.cn/tzgg/ccd89e81ec0844ba88aa567ea9d0cf84.html)
+
 ## 厦门大学
 
 【入营人数：102】 [人工智能研究院](https://iai.xmu.edu.cn/info/1120/4034.htm)
@@ -129,6 +133,8 @@
 ## 同济大学
 
 【入营人数：133】 [卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3568.htm)
+
+【入营人数：115】 [上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/25/12/c17827a337170/page.htm)
 
 【入营人数：117】 [软件学院](https://yz.tongji.edu.cn/info/1010/3568.htm)
 
@@ -182,6 +188,10 @@
 
 【入营人数：127】 [计算机学院（软件学院、智能科学与技术学院）](https://cs.scu.edu.cn/info/1247/18488.htm)
 
+## 中国科学院
+
+【入营人数：547】 [上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202406/t20240628_7198926.html)
+
 ## 华中师范大学
 
 【入营人数：79】 [计算机学院](https://cs.ccnu.edu.cn/info/1056/4352.htm)
@@ -197,6 +207,10 @@
 ## 广东工业大学
 
 【入营人数：37】 [信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8286.htm)
+
+## 湖南科技大学
+
+【入营人数：87】 [计算机科学与工程学院](https://computer.hnust.edu.cn/tzgg/c6b3348b5bf94d7b9602369b959fb6ca.htm)
 
 ## 华东理工大学
 
