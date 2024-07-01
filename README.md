@@ -32,6 +32,8 @@
 
 【入营人数：139】 [智能学院](https://www.cis.pku.edu.cn/info/1034/3048.htm)
 
+【入营人数：340】 [软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4585.html)
+
 【入营人数：210】 [电子学院](https://ele.pku.edu.cn/info/1232/3130.htm)
 
 【入营人数：3】 [电子学院（第二批）](https://ele.pku.edu.cn/info/1232/3131.htm)
@@ -110,6 +112,8 @@
 
 【入营人数：152】 [医学技术学院](https://smt.bit.edu.cn/tzgg/a99125628bde4393a2bf39c589142b5e.htm)
 
+【入营人数：480】 [信息与电子学院 ](https://sie.bit.edu.cn/tzgg/zhtz/d3ca313a64e54f01ba995e70021a8475.htm)
+
 ## 北京师范大学
 
 【入营人数：72】 [地理科学学部遥感科学与技术、地图学与地理信息系统 学科](https://geo.bnu.edu.cn/tzgg/ccd89e81ec0844ba88aa567ea9d0cf84.html)
@@ -127,6 +131,8 @@
 ## 南开大学
 
 【入营人数：50】 [软件学院](https://cs.nankai.edu.cn/info/1042/3712.htm)
+
+【入营人数：80】 [人工智能学院](https://ai.nankai.edu.cn/info/1024/5880.htm)
 
 【入营人数：171】 [电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4120.htm)
 
@@ -160,13 +166,15 @@
 
 【入营人数：107】 [海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1066)
 
+【入营人数：66】 [测绘科学与技术学院](https://sges.sysu.edu.cn/article/1455)
+
 ## 西北工业大学
 
 【入营人数：75】 [电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/30171.htm)
 
 ## 华东师范大学
 
-【入营人数：104】 [通信与电子工程学院（集成电路科学与工程学院）](http://www.cee.ecnu.edu.cn/49/8a/c4170a608650/page.htm)
+【入营人数：203】 [通信与电子工程学院（集成电路科学与工程学院）](http://www.cee.ecnu.edu.cn/4b/c5/c4170a609221/page.htm)
 
 ## 吉林大学
 
@@ -183,6 +191,14 @@
 【入营人数：337】 [信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13248.htm)
 
 【入营人数：60】 [物理与微电子科学学院](https://spe.hnu.edu.cn/info/1083/8828.htm)
+
+## 山东大学
+
+【入营人数：46】 [数据科学研究院](https://dsi.sdu.edu.cn/info/1093/3803.htm)
+
+【入营人数：865】 [软件学院](https://www.sc.sdu.edu.cn/info/1019/4760.htm)
+
+【入营人数：423】 [信息学院](https://www.ise.sdu.edu.cn/info/1053/13895.htm)
 
 ## 四川大学
 
@@ -211,6 +227,14 @@
 ## 湖南科技大学
 
 【入营人数：87】 [计算机科学与工程学院](https://computer.hnust.edu.cn/tzgg/c6b3348b5bf94d7b9602369b959fb6ca.htm)
+
+## 中南财经政法大学
+
+【入营人数：61】 [信息工程学院](https://xagx.zuel.edu.cn/2024/0701/c3402a369318/page.htm)
+
+## 首都体育学院
+
+【入营人数：20】 [体育人工智能研究院](https://mp.weixin.qq.com/s/Hyddy7kMVaLhkjfWOPE5Zw)
 
 ## 华东理工大学
 
