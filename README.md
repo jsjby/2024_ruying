@@ -14,6 +14,10 @@
 
 【入营人数：21】 [数据与信息研究院电子与通信工程项目（深圳）](https://www.sigs.tsinghua.edu.cn/2024/0628/c120a95168/page.htm)
 
+【入营人数：56】 [数据与信息研究院 数据科学和信息技术专业（深圳）硕士](https://www.sigs.tsinghua.edu.cn/2024/0701/c120a95200/page.htm)
+
+【入营人数：38】 [数据与信息研究院 数据科学和信息技术专业（深圳）博士](https://www.sigs.tsinghua.edu.cn/2024/0701/c120a95200/page.htm)
+
 【入营人数：19】 [数据与信息研究院大数据工程项目（深圳）](https://www.sigs.tsinghua.edu.cn/2024/0628/c120a95167/page.htm)
 
 【入营人数：27】 [数据与信息研究院集成电路与系统项目（深圳）](https://www.sigs.tsinghua.edu.cn/2024/0628/c120a95164/page.htm)
@@ -106,11 +110,15 @@
 
 ## 北京航空航天大学
 
-【入营人数：514】 [软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11323)
+【报名人数：514】 [软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11323)
+
+【入营人数：40】 [软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11332)
 
 ## 北京理工大学
 
 【入营人数：152】 [医学技术学院](https://smt.bit.edu.cn/tzgg/a99125628bde4393a2bf39c589142b5e.htm)
+
+【入营人数：414】 [前沿交叉科学研究院](https://arims.bit.edu.cn/tz/6fedecd413994ab5acf3e72f1c09c872.htm)
 
 【入营人数：480】 [信息与电子学院 ](https://sie.bit.edu.cn/tzgg/zhtz/d3ca313a64e54f01ba995e70021a8475.htm)
 
@@ -186,11 +194,17 @@
 
 【入营人数：116】 [交通学院](https://jt.jlu.edu.cn/info/1066/6323.htm)
 
+## 重庆大学
+
+【入营人数：114】 [国家卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2577.htm)
+
 ## 湖南大学
 
 【入营人数：337】 [信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13248.htm)
 
 【入营人数：60】 [物理与微电子科学学院](https://spe.hnu.edu.cn/info/1083/8828.htm)
+
+【入营人数：115】 [机器人学院](http://robotics.hnu.edu.cn/info/1074/2691.htm)
 
 ## 山东大学
 
@@ -199,6 +213,8 @@
 【入营人数：865】 [软件学院](https://www.sc.sdu.edu.cn/info/1019/4760.htm)
 
 【入营人数：423】 [信息学院](https://www.ise.sdu.edu.cn/info/1053/13895.htm)
+
+【入营人数：245】 [空间科学与物理学院](https://apd.wh.sdu.edu.cn/info/1334/16480.htm)
 
 ## 四川大学
 
@@ -224,6 +240,14 @@
 
 【入营人数：37】 [信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8286.htm)
 
+## 西南交通大学
+
+【入营人数：100】 [计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=71462846-5f09-4549-8d6b-28d901c311bf)
+
+## 西南财经大学
+
+【入营人数：142】 [计算机与人工智能学院](https://it.swufe.edu.cn/info/1166/16828.htm)
+
 ## 湖南科技大学
 
 【入营人数：87】 [计算机科学与工程学院](https://computer.hnust.edu.cn/tzgg/c6b3348b5bf94d7b9602369b959fb6ca.htm)
@@ -231,6 +255,14 @@
 ## 中南财经政法大学
 
 【入营人数：61】 [信息工程学院](https://xagx.zuel.edu.cn/2024/0701/c3402a369318/page.htm)
+
+## 北京语言大学
+
+【入营人数：43】 [语言认知科学学科创新引智基地](https://ccsl.blcu.edu.cn/info/1014/2324.htm)
+
+## 北京电子科技学院
+
+【入营人数：103】 [北京电子科技学院](https://www.besti.edu.cn/600/2123.html)
 
 ## 首都体育学院
 
