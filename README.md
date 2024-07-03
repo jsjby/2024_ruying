@@ -52,6 +52,8 @@
 
 【入营人数：332】 [生命科学联合中心（北大方面）与北京大学生命科学学院）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1787)
 
+【入营人数：63】 [数学科学学院](https://www.math.pku.edu.cn/zygg/160008.htm)
+
 ## 复旦大学
 
 【入营人数：227】 [大数据学院](https://sds.fudan.edu.cn/6c/15/c17701a683029/page.htm)
@@ -114,6 +116,10 @@
 
 【入营人数：40】 [软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11332)
 
+【入营人数：513】 [计算机学院](https://scse.buaa.edu.cn/info/1299/11224.htm)
+
+【入营人数：480】 [大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2272.htm)
+
 ## 北京理工大学
 
 【入营人数：152】 [医学技术学院](https://smt.bit.edu.cn/tzgg/a99125628bde4393a2bf39c589142b5e.htm)
@@ -160,6 +166,8 @@
 
 【入营人数：276】 [遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/97610.htm)
 
+【入营人数：230】 [计算机学院](https://cs.whu.edu.cn/info/1071/44691.htm)
+
 ## 中南大学
 
 【入营人数：120】 [大数据研究院](https://bdi.csu.edu.cn/info/1063/3337.htm)
@@ -175,6 +183,8 @@
 【入营人数：107】 [海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1066)
 
 【入营人数：66】 [测绘科学与技术学院](https://sges.sysu.edu.cn/article/1455)
+
+【入营人数：137】 [微电子科学与技术学院](https://mst.sysu.edu.cn/article/1010)
 
 ## 西北工业大学
 
@@ -210,6 +220,8 @@
 
 【入营人数：46】 [数据科学研究院](https://dsi.sdu.edu.cn/info/1093/3803.htm)
 
+【入营人数：4】 [数据科学研究院（递补）](https://dsi.sdu.edu.cn/info/1093/3815.htm)
+
 【入营人数：865】 [软件学院](https://www.sc.sdu.edu.cn/info/1019/4760.htm)
 
 【入营人数：423】 [信息学院](https://www.ise.sdu.edu.cn/info/1053/13895.htm)
@@ -227,6 +239,18 @@
 ## 华中师范大学
 
 【入营人数：79】 [计算机学院](https://cs.ccnu.edu.cn/info/1056/4352.htm)
+
+【入营人数：50】 [人工智能教育学部](https://foaie.ccnu.edu.cn/info/1008/7136.htm)
+
+【入营人数：32】 [人工智能教育学部（递补）](https://foaie.ccnu.edu.cn/info/1008/7139.htm)
+
+## 华东理工大学
+
+【入营人数：132】 [信息科学与工程学院](https://cise.ecust.edu.cn/2024/0626/c7692a168918/page.htm)
+
+【入营人数：66】 [信息科学与工程学院-数智赋能. 融创未来](https://cise.ecust.edu.cn/94/b2/c7692a169138/page.htm)
+
+【入营人数：16】 [科技信息研究所](https://lib.ecust.edu.cn/zh-hans/node/63577)
 
 ## 安徽大学
 
@@ -268,8 +292,13 @@
 
 【入营人数：20】 [体育人工智能研究院](https://mp.weixin.qq.com/s/Hyddy7kMVaLhkjfWOPE5Zw)
 
-## 华东理工大学
+## 新疆大学
 
-【入营人数：132】 [信息科学与工程学院](https://cise.ecust.edu.cn/2024/0626/c7692a168918/page.htm)
+【入营人数：11】 [智能科学与技术学院](https://wljs.xju.edu.cn/info/1046/1408.htm)
 
-【入营人数：16】 [科技信息研究所](https://lib.ecust.edu.cn/zh-hans/node/63577)
+## 上海理工大学
+
+【入营人数：39】 [智能科技学院](https://ipc.usst.edu.cn/2024/0703/c12795a323384/page.htm)
+
+
+
