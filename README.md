@@ -54,6 +54,8 @@
 
 【入营人数：63】 [数学科学学院](https://www.math.pku.edu.cn/zygg/160008.htm)
 
+【入营人数：195】 [信息工程学院](https://www.ece.pku.edu.cn/info/1027/2789.htm)
+
 ## 复旦大学
 
 【入营人数：227】 [大数据学院](https://sds.fudan.edu.cn/6c/15/c17701a683029/page.htm)
@@ -79,6 +81,8 @@
 【入营人数：55】 [脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2024/0613/c75666a2933018/page.htm)
 
 【入营人数：69】 [良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=249&id=1571)
+
+【入营人数：300】 [计算机学院](http://www.cs.zju.edu.cn/csen/2024/0704/c27011a2943278/page.htm)
 
 【入营人数：30】 [地球科学学院](http://gs.zju.edu.cn/2024/0627/c35088a2940097/page.htm)
 
@@ -109,6 +113,10 @@
 【入营人数：404】 [信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/9731ae7fd24b4ce9adcd752b76d86017.htm)
 
 【入营人数：141】 [统计与大数据研究院](http://isbd.ruc.edu.cn/zsxx/zss/9c76bcee916d408fb41ef7c0da2edb3b.htm)
+
+## 国防科技大学
+
+【入营人数：506】 [计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13843)
 
 ## 北京航空航天大学
 
@@ -186,6 +194,8 @@
 
 【入营人数：137】 [微电子科学与技术学院](https://mst.sysu.edu.cn/article/1010)
 
+【入营人数：80】 [网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416323.htm)
+
 ## 西北工业大学
 
 【入营人数：75】 [电子信息学院](https://dianzi.nwpu.edu.cn/info/1507/30171.htm)
@@ -228,13 +238,31 @@
 
 【入营人数：245】 [空间科学与物理学院](https://apd.wh.sdu.edu.cn/info/1334/16480.htm)
 
+【入营人数：124】 [机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/14562.htm)
+
 ## 四川大学
 
 【入营人数：127】 [计算机学院（软件学院、智能科学与技术学院）](https://cs.scu.edu.cn/info/1247/18488.htm)
 
+## 大连理工大学
+
+【入营人数：169】 [软件学院](https://ss.dlut.edu.cn/info/1122/28992.htm)
+
 ## 中国科学院
 
 【入营人数：547】 [上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202406/t20240628_7198926.html)
+
+## 中国矿业大学
+
+【入营人数：30】 [数学学院](https://math.cumt.edu.cn/34/02/c19172a668674/page.htm)
+
+## 中国地质大学
+
+【入营人数：263】 [数理学院（北京）](https://ss.cugb.edu.cn/c/2024-07-04/807027.shtml)
+
+## 中央财经大学
+
+【入营人数：63】 [信息学院](https://ie.cufe.edu.cn/info/1341/6680.htm)
 
 ## 华中师范大学
 
@@ -299,6 +327,13 @@
 ## 上海理工大学
 
 【入营人数：39】 [智能科技学院](https://ipc.usst.edu.cn/2024/0703/c12795a323384/page.htm)
+
+## 南京农业大学
+
+【入营人数：66】 [人工智能学院](https://ai.njau.edu.cn/info/1009/3514.htm)
+
+
+
 
 
 
