@@ -112,6 +112,8 @@
 
 【入营人数：404】 [信息学院](http://info.ruc.edu.cn/rcpy/bss/zsxx3/9731ae7fd24b4ce9adcd752b76d86017.htm)
 
+【入营人数：182】 [智慧治理学院](http://zhzl.ruc.edu.cn/tzgg/4da38668211a47a1ac678492401076f7.htm)
+
 【入营人数：141】 [统计与大数据研究院](http://isbd.ruc.edu.cn/zsxx/zss/9c76bcee916d408fb41ef7c0da2edb3b.htm)
 
 ## 国防科技大学
@@ -174,6 +176,8 @@
 
 【入营人数：276】 [遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/97610.htm)
 
+【入营人数：305】 [国家网络安全学院](https://cse.whu.edu.cn/info/1101/23942.htm)
+
 【入营人数：230】 [计算机学院](https://cs.whu.edu.cn/info/1071/44691.htm)
 
 ## 中南大学
@@ -218,6 +222,8 @@
 
 【入营人数：114】 [国家卓越工程师学院](https://eie.cqu.edu.cn/info/1483/2577.htm)
 
+【入营人数：102】 [计算机学院](http://www.cs.cqu.edu.cn/info/1341/7941.htm)
+
 ## 湖南大学
 
 【入营人数：337】 [信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/13248.htm)
@@ -235,6 +241,8 @@
 【入营人数：865】 [软件学院](https://www.sc.sdu.edu.cn/info/1019/4760.htm)
 
 【入营人数：423】 [信息学院](https://www.ise.sdu.edu.cn/info/1053/13895.htm)
+
+【入营人数：306】 [网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/3236.htm)
 
 【入营人数：245】 [空间科学与物理学院](https://apd.wh.sdu.edu.cn/info/1334/16480.htm)
 
@@ -284,6 +292,10 @@
 
 【入营人数：112】 [人工智能](https://ai.ahu.edu.cn/2024/0624/c19134a343518/page.htm)
 
+## 南京理工大学
+
+【入营人数：152】 [计算机科学与工程](https://cs.njust.edu.cn/22/d0/c1820a336592/page.htm)
+
 ## 西南大学
 
 【入营人数：87】 [计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1146/4790.htm)
@@ -327,6 +339,8 @@
 ## 上海理工大学
 
 【入营人数：39】 [智能科技学院](https://ipc.usst.edu.cn/2024/0703/c12795a323384/page.htm)
+
+【入营人数：318】 [光电学院](https://oece.usst.edu.cn/2024/0701/c9009a323266/page.htm)
 
 ## 南京农业大学
 
