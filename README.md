@@ -120,6 +120,8 @@
 
 【入营人数：506】 [计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13843)
 
+【入营人数：150】 [电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13844)
+
 ## 北京航空航天大学
 
 【报名人数：514】 [软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11323)
@@ -193,6 +195,8 @@
 ## 中山大学
 
 【入营人数：107】 [海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1066)
+
+【入营人数：121】 [电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1416326.htm)
 
 【入营人数：66】 [测绘科学与技术学院](https://sges.sysu.edu.cn/article/1455)
 
