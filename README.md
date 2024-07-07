@@ -56,6 +56,8 @@
 
 【入营人数：195】 [信息工程学院](https://www.ece.pku.edu.cn/info/1027/2789.htm)
 
+【入营人数：124】 [新材料学院](https://sam.pkusz.edu.cn/info/1032/1823.htm)
+
 ## 复旦大学
 
 【入营人数：227】 [大数据学院](https://sds.fudan.edu.cn/6c/15/c17701a683029/page.htm)
