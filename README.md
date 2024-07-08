@@ -152,6 +152,8 @@
 
 ## 天津大学
 
+【入营人数：45】 [佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4339)
+
 【入营人数：84】 [自动化学院](https://seea.tju.edu.cn/info/1031/4592.htm)
 
 【入营人数：116】 [新媒体学院](http://snmc.tju.edu.cn/info/1120/2165.htm)
@@ -214,6 +216,10 @@
 
 【入营人数：203】 [通信与电子工程学院（集成电路科学与工程学院）](http://www.cee.ecnu.edu.cn/4b/c5/c4170a609221/page.htm)
 
+## 华中科技大学
+
+【入营人数：N/A】 [网络空间安全学院](https://cse.hust.edu.cn/info/1079/4061.htm)
+
 ## 吉林大学
 
 【入营人数：258】 [计算机学院](https://ccst.jlu.edu.cn/info/1229/19667.htm)
@@ -248,6 +254,8 @@
 
 【入营人数：423】 [信息学院](https://www.ise.sdu.edu.cn/info/1053/13895.htm)
 
+【入营人数：1147】 [计算机学院/浪潮人工智能学院](https://www.cs.sdu.edu.cn/info/1068/6307.htm)
+
 【入营人数：306】 [网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/3236.htm)
 
 【入营人数：245】 [空间科学与物理学院](https://apd.wh.sdu.edu.cn/info/1334/16480.htm)
@@ -265,6 +273,10 @@
 ## 中国科学院
 
 【入营人数：547】 [上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202406/t20240628_7198926.html)
+
+【入营人数：182】 [国家空间科学中心](https://nssc.cas.cn/yjsb/zsxx/xly/202407/t20240705_7213263.html)
+
+【入营人数：213】 [软件研究所](https://is.cas.cn/yjsjy2016/zsxx2016/202407/t20240708_7214162.html)
 
 ## 中国矿业大学
 
@@ -351,6 +363,11 @@
 ## 南京农业大学
 
 【入营人数：66】 [人工智能学院](https://ai.njau.edu.cn/info/1009/3514.htm)
+
+## 武汉工程大学
+
+【入营人数：74】 [计算机科学与工程 人工智能学院](https://cs.wit.edu.cn/info/1054/12148.htm)
+
 
 
 
