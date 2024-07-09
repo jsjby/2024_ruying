@@ -136,6 +136,8 @@
 
 ## 北京理工大学
 
+【入营人数：212】 [网络空间安全学院](https://cst.bit.edu.cn/xxfw/gsxx/d01cfbae52a643a9a84cf50d4a649c96.htm)
+
 【入营人数：152】 [医学技术学院](https://smt.bit.edu.cn/tzgg/a99125628bde4393a2bf39c589142b5e.htm)
 
 【入营人数：414】 [前沿交叉科学研究院](https://arims.bit.edu.cn/tz/6fedecd413994ab5acf3e72f1c09c872.htm)
@@ -184,6 +186,8 @@
 
 【入营人数：305】 [国家网络安全学院](https://cse.whu.edu.cn/info/1101/23942.htm)
 
+【入营人数：3】 [国家网络安全学院（递补）](https://cse.whu.edu.cn/info/1101/23952.htm)
+
 【入营人数：230】 [计算机学院](https://cs.whu.edu.cn/info/1071/44691.htm)
 
 ## 中南大学
@@ -197,6 +201,8 @@
 【入营人数：229】 [电子信息学院](https://ei.csu.edu.cn/info/1085/1574.htm)
 
 ## 中山大学
+
+【入营人数：88】 [人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1416345.htm)
 
 【入营人数：107】 [海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1066)
 
@@ -219,6 +225,10 @@
 ## 华中科技大学
 
 【入营人数：N/A】 [网络空间安全学院](https://cse.hust.edu.cn/info/1079/4061.htm)
+
+【入营人数：156】 [集成电路学院](https://ic.hust.edu.cn/info/1242/3509.htm)
+
+【入营人数：48】 [光学与电子信息学院](https://oei.hust.edu.cn/info/1054/8912.htm)
 
 ## 吉林大学
 
@@ -277,6 +287,8 @@
 【入营人数：182】 [国家空间科学中心](https://nssc.cas.cn/yjsb/zsxx/xly/202407/t20240705_7213263.html)
 
 【入营人数：213】 [软件研究所](https://is.cas.cn/yjsjy2016/zsxx2016/202407/t20240708_7214162.html)
+
+【入营人数：68】 [紫金山天文台](https://pmo.cas.cn/gs/zs/xly/202407/t20240709_7214435.html)
 
 ## 中国矿业大学
 
@@ -367,6 +379,11 @@
 ## 武汉工程大学
 
 【入营人数：74】 [计算机科学与工程 人工智能学院](https://cs.wit.edu.cn/info/1054/12148.htm)
+
+## 海南大学
+
+【入营人数：29】 [生物医学工程学院](https://bme.hainanu.edu.cn/info/1051/5611.htm)
+
 
 
 
