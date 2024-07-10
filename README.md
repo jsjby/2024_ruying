@@ -124,6 +124,8 @@
 
 【入营人数：150】 [电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13844)
 
+【入营人数：290】 [系统工程学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13850)
+
 ## 北京航空航天大学
 
 【报名人数：514】 [软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11323)
