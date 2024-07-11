@@ -92,11 +92,39 @@
 
 【入营人数：124】 [人工智能研究院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
 
+【入营人数：N/A】 [溥渊未来技术学院](https://gift.sjtu.edu.cn/2024/0711/c4998a8603/page.htm)
+
 ## 南京大学
 
 【入营人数：22】 [功能材料与智能制造研究院（第二批）](https://eng.nju.edu.cn/a6/ef/c4968a698095/page.htm)
 
 【入营人数：61】 [功能材料与智能制造研究院](https://eng.nju.edu.cn/9f/59/c4968a696153/page.htm)
+
+## 中国科学技术大学
+
+【入营人数：N/A】 [中国科学技术大学夏令营汇总](http://tqms.ustc.edu.cn/?menu=xly_index)
+
+【入营人数：117】 [人工智能与数据科学夏令营（A营)](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=24)
+
+【入营人数：120】 [网络空间与信息安全夏令营（网络空间安全学院）(A营)](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=34)
+
+【入营人数：88】 [集成电路科技夏令营（微电子学院）-A营](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=35)
+
+【入营人数：36】 [集成电路科技夏令营（微电子学院）-B营](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=35)
+
+【入营人数：109】 [安全科技夏令营（火灾科学国家重点实验室） - 夏令营A营](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=39)
+
+【入营人数：366】 [苏州高等研究院夏令营（苏州高等研究院） - 夏令营A营](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=33)
+
+【入营人数：141】 [创新应用夏令营（先进技术研究院） - 夏令营A营](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=30)
+
+【入营人数：207】 [计算机科学夏令营（计算机科学与技术学院） - 夏令营A营](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=15)
+
+【入营人数：284】 [信息科技夏令营（信息科学技术学院） - 夏令营A营](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=14)
+
+【入营人数：65】 [生物医学工程夏令营 (苏州医工所) - 夏令营A营](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=13)
+
+【入营人数：454】 [科学岛夏令营（研究生院科学岛分院、环光学院） - 夏令营A营](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=1)
 
 ## 西安交通大学
 
@@ -124,6 +152,8 @@
 
 【入营人数：150】 [电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13844)
 
+【入营人数：169】 [前沿交叉学科学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13858)
+
 【入营人数：290】 [系统工程学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13850)
 
 ## 北京航空航天大学
@@ -149,6 +179,8 @@
 ## 北京师范大学
 
 【入营人数：72】 [地理科学学部遥感科学与技术、地图学与地理信息系统 学科](https://geo.bnu.edu.cn/tzgg/ccd89e81ec0844ba88aa567ea9d0cf84.html)
+
+【入营人数：231】 [人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/66b034620a9e48fba93bd5a041e1bbf8.htm)
 
 ## 厦门大学
 
