@@ -154,6 +154,8 @@
 
 【入营人数：169】 [前沿交叉学科学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13858)
 
+【入营人数：540】 [电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13859)
+
 【入营人数：290】 [系统工程学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13850)
 
 ## 北京航空航天大学
