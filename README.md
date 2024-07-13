@@ -156,6 +156,8 @@
 
 【入营人数：540】 [电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13859)
 
+【入营人数：407】 [智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13865)
+
 【入营人数：290】 [系统工程学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13850)
 
 ## 北京航空航天大学
@@ -362,6 +364,10 @@
 
 【入营人数：152】 [计算机科学与工程](https://cs.njust.edu.cn/22/d0/c1820a336592/page.htm)
 
+## 大连海事大学
+
+【入营人数：50】 [信息科学技术学院](https://ist.dlmu.edu.cn/info/1068/5248.htm)
+
 ## 西南大学
 
 【入营人数：87】 [计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1146/4790.htm)
@@ -389,6 +395,8 @@
 ## 北京语言大学
 
 【入营人数：43】 [语言认知科学学科创新引智基地](https://ccsl.blcu.edu.cn/info/1014/2324.htm)
+
+【入营人数：25】 [信息科学学院](https://mp.weixin.qq.com/s/Oeu922kCJfFQEDMZhANIsw)
 
 ## 北京电子科技学院
 
