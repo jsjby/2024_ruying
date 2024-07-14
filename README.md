@@ -154,7 +154,11 @@
 
 【入营人数：169】 [前沿交叉学科学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13858)
 
+【入营人数：12】 [前沿交叉学科学院(补录）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13866)
+
 【入营人数：540】 [电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13859)
+
+【入营人数：110】 [电子科学学院（补录）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13868)
 
 【入营人数：407】 [智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13865)
 
