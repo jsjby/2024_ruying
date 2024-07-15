@@ -322,6 +322,10 @@
 
 【入营人数：169】 [软件学院](https://ss.dlut.edu.cn/info/1122/28992.htm)
 
+## 兰州大学
+
+【入营人数：30】 [信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0715/272717.html)
+
 ## 中国科学院
 
 【入营人数：547】 [上海微系统与信息技术研究所](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202406/t20240628_7198926.html)
@@ -383,6 +387,8 @@
 ## 西南交通大学
 
 【入营人数：100】 [计算机与人工智能学院](https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=71462846-5f09-4549-8d6b-28d901c311bf)
+
+【入营人数：107】 [唐山研究院](https://tsyjy.swjtu.edu.cn/info/1045/6866.htm)
 
 ## 西南财经大学
 
