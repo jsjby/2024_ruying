@@ -340,9 +340,17 @@
 
 【入营人数：30】 [数学学院](https://math.cumt.edu.cn/34/02/c19172a668674/page.htm)
 
+## 北京交通大学
+
+【入营人数：50】 [交通运输学院](https://trans.bjtu.edu.cn/cms/item/2826.html)
+
 ## 中国地质大学
 
 【入营人数：263】 [数理学院（北京）](https://ss.cugb.edu.cn/c/2024-07-04/807027.shtml)
+
+## 中国农业科学院
+
+【入营人数：46】 [农业信息研究所](https://aii.caas.cn/yjspy/zsxx/ecc6aff2722649418e4e6df1320351e5.htm)
 
 ## 中央财经大学
 
@@ -425,6 +433,10 @@
 【入营人数：39】 [智能科技学院](https://ipc.usst.edu.cn/2024/0703/c12795a323384/page.htm)
 
 【入营人数：318】 [光电学院](https://oece.usst.edu.cn/2024/0701/c9009a323266/page.htm)
+
+## 上海财经大学
+
+【入营人数：25】 [交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/5d/3c/c10273a220476/page.htm)
 
 ## 南京农业大学
 
