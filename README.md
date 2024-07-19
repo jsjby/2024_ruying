@@ -92,6 +92,12 @@
 
 【入营人数：124】 [人工智能研究院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
 
+【入营人数：181】 [密西根学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
+
+【入营人数：211】 [生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
+
+【入营人数：108】 [南加州大学文化创意产业学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
+
 【入营人数：N/A】 [溥渊未来技术学院](https://gift.sjtu.edu.cn/2024/0711/c4998a8603/page.htm)
 
 ## 南京大学
