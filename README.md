@@ -276,6 +276,8 @@
 
 【入营人数：156】 [集成电路学院](https://ic.hust.edu.cn/info/1242/3509.htm)
 
+【入营人数：59】 [计算机科学与技术学院](https://cs.hust.edu.cn/info/1439/4153.htm)
+
 【入营人数：48】 [光学与电子信息学院](https://oei.hust.edu.cn/info/1054/8912.htm)
 
 ## 吉林大学
@@ -455,6 +457,11 @@
 ## 海南大学
 
 【入营人数：29】 [生物医学工程学院](https://bme.hainanu.edu.cn/info/1051/5611.htm)
+
+## 云南大学
+
+【入营人数：41】 [软件学院](http://www.sei.ynu.edu.cn/info/1057/2346.htm)
+
 
 
 
