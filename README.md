@@ -446,6 +446,10 @@
 
 【入营人数：25】 [交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/5d/3c/c10273a220476/page.htm)
 
+## 上海第二工业大学
+
+【入营人数：68】 [计算机与信息工程学院](https://jxxy.sspu.edu.cn/2024/0805/c2084a155811/page.htm)
+
 ## 南京农业大学
 
 【入营人数：66】 [人工智能学院](https://ai.njau.edu.cn/info/1009/3514.htm)
