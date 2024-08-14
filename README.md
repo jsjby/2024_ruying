@@ -196,6 +196,8 @@
 
 【入营人数：231】 [人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/66b034620a9e48fba93bd5a041e1bbf8.htm)
 
+【入营人数：126】 [人工智能学院（第二轮）](https://ai.bnu.edu.cn/ggjxz/tzgg/f56f9422c05b4f1b9fe5652613938f6b.htm)
+
 ## 厦门大学
 
 【入营人数：102】 [人工智能研究院](https://iai.xmu.edu.cn/info/1120/4034.htm)
@@ -219,6 +221,8 @@
 ## 东南大学
 
 【入营人数：539】 [网络空间安全学院](https://cyber.seu.edu.cn/2024/0811/c18223a499522/page.htm)
+
+【入营人数：456】 [电子科学与工程学院](https://electronic.seu.edu.cn/2024/0814/c11484a499697/pagem.htm)
 
 ## 同济大学
 
