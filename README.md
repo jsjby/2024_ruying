@@ -216,6 +216,10 @@
 
 【入营人数：171】 [电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4120.htm)
 
+## 东南大学
+
+【入营人数：539】 [网络空间安全学院](https://cyber.seu.edu.cn/2024/0811/c18223a499522/page.htm)
+
 ## 同济大学
 
 【入营人数：133】 [卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3568.htm)
