@@ -180,6 +180,8 @@
 
 【入营人数：480】 [大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2272.htm)
 
+【入营人数：66】 [无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2243.htm)
+
 ## 北京理工大学
 
 【入营人数：212】 [网络空间安全学院](https://cst.bit.edu.cn/xxfw/gsxx/d01cfbae52a643a9a84cf50d4a649c96.htm)
