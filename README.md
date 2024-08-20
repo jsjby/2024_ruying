@@ -140,6 +140,8 @@
 
 【入营人数：16】 [重庆研究院](https://cri.hit.edu.cn/2024/0628/c15728a347864/page.htm)
 
+【入营人数：19】 [重庆研究院（第二期）](https://cri.hit.edu.cn/2024/0819/c15728a351207/page.htm)
+
 ## 中国人民大学
 
 【入营人数：306】 [高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20240620001.html)
@@ -225,6 +227,8 @@
 【入营人数：539】 [网络空间安全学院](https://cyber.seu.edu.cn/2024/0811/c18223a499522/page.htm)
 
 【入营人数：456】 [电子科学与工程学院](https://electronic.seu.edu.cn/2024/0814/c11484a499697/pagem.htm)
+
+【入营人数：662】 [信息科学与工程学院](https://radio.seu.edu.cn/2024/0819/c46467a500070/page.htm)
 
 【入营人数：1048】 [计算机科学与工程学院、软件学院、苏州联合研究生院计算机技术/人工智能方向](https://cse.seu.edu.cn/2024/0817/c49342a499858/page.htm)
 
@@ -392,6 +396,10 @@
 
 【入营人数：16】 [科技信息研究所](https://lib.ecust.edu.cn/zh-hans/node/63577)
 
+## 华侨大学
+
+【入营人数：14】 [计算机科学与技术学院](https://cst.hqu.edu.cn/info/1044/10551.htm)
+
 ## 安徽大学
 
 【入营人数：112】 [人工智能](https://ai.ahu.edu.cn/2024/0624/c19134a343518/page.htm)
@@ -439,6 +447,10 @@
 ## 北京电子科技学院
 
 【入营人数：103】 [北京电子科技学院](https://www.besti.edu.cn/600/2123.html)
+
+## 北京工商大学
+
+【入营人数：70】 [计算机与人工智能学院](https://caai.btbu.edu.cn/tzgg/7e8dc4df8fbf449eaf01a45da8046167.htm)
 
 ## 首都体育学院
 
