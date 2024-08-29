@@ -54,6 +54,10 @@
 
 【入营人数：63】 [数学科学学院](https://www.math.pku.edu.cn/zygg/160008.htm)
 
+【入营人数：53】 [未来技术学院（第二期）](https://future.pku.edu.cn/xwzk/e98a29f296924083b50035cf65620318.htm)
+
+【入营人数：45】 [未来技术学院](https://future.pku.edu.cn/xwzk/fb71ac803ff341ff8e071ed4823d2efe.htm)
+
 【入营人数：195】 [信息工程学院](https://www.ece.pku.edu.cn/info/1027/2789.htm)
 
 【入营人数：124】 [新材料学院](https://sam.pkusz.edu.cn/info/1032/1823.htm)
