@@ -64,6 +64,12 @@
 
 ## 复旦大学
 
+【入营人数：88】 [微电子学院-工程硕博](https://sme.fudan.edu.cn/8c/c0/c29363a691392/page.htm)
+
+【入营人数：23】 [信息科学与工程学院-工程硕博](http://www.it.fudan.edu.cn/Data/View/4697)
+
+【入营人数：36】 [工程与应用技术研究院-工程硕博](https://faet.fudan.edu.cn/8c/8e/c23815a691342/page.htm)
+
 【入营人数：227】 [大数据学院](https://sds.fudan.edu.cn/6c/15/c17701a683029/page.htm)
 
 【入营人数：30】 [智能医学研究院](https://imi.fudan.edu.cn/info/1033/1583.htm)
@@ -361,6 +367,10 @@
 ## 兰州大学
 
 【入营人数：30】 [信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0715/272717.html)
+
+## 西安电子科技大学
+
+【入营人数：707】 [通信工程学院](https://ste.xidian.edu.cn/info/1337/8496.htm)
 
 ## 中国科学院
 
