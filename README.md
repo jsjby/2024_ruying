@@ -1,4 +1,4 @@
-# 2024 夏令营入营名单、恭喜大家！
+# 2024 夏令营 预推免入营名单、恭喜大家！
 
 # [2024年计算机保研招生通知(截止日期版本)](https://github.com/jsjby/jsjby_2024)
 
@@ -9,6 +9,14 @@
 ## 夏令营入营链接
 
 ## 清华大学
+
+【入营人数：140】 [计算机科学与技术系-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/c71e8c67-d235-4d1c-9c90-84a363175130?yxsdm=024)
+
+【入营人数：60】 [网络科学与网络空间研究院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/93cd80bd-418a-4fa9-8172-defdb36cc694?yxsdm=412)
+
+【入营人数：54】 [生物医学工程学院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/656502e9-bcda-4f24-b213-ba1fa601a481?yxsdm=502)
+
+【入营人数：38】 [电子信息（生物医学工程）-深圳-直硕-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/cfdbd71a-136c-4ef7-ad93-e050be3d5a37?yxsdm=599)
 
 【入营人数：71】 [数据与信息研究院计算机科学与技术学科（深圳）](https://www.sigs.tsinghua.edu.cn/2024/0613/c120a94892/page.htm)
 
