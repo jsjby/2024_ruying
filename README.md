@@ -12,11 +12,23 @@
 
 【入营人数：140】 [计算机科学与技术系-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/c71e8c67-d235-4d1c-9c90-84a363175130?yxsdm=024)
 
+【入营人数：161】 [软件学院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/8456af32-f0ce-464c-9eef-cf4e261c092f?yxsdm=410)
+
 【入营人数：60】 [网络科学与网络空间研究院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/93cd80bd-418a-4fa9-8172-defdb36cc694?yxsdm=412)
+
+【入营人数：353】 [电子工程系-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/e4cea563-c803-47d6-a241-cb4d0d74c0c8?yxsdm=023)
+
+【入营人数：41】 [自动化系-电子信息专业大数据工程硕士项目-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/d4aeb7c6-7d86-441f-8529-25e6e38e7a5b?yxsdm=025)
+
+【入营人数：34】 [天基网络与通信全国重点实验室-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/ff60422d-2bc8-4ade-9079-9de2f07699eb?yxsdm=023)
 
 【入营人数：54】 [生物医学工程学院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/656502e9-bcda-4f24-b213-ba1fa601a481?yxsdm=502)
 
 【入营人数：38】 [电子信息（生物医学工程）-深圳-直硕-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/cfdbd71a-136c-4ef7-ad93-e050be3d5a37?yxsdm=599)
+
+【入营人数：151】 [求真书院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/aea21499-9480-49a2-8920-d79f314ef620?yxsdm=476)
+
+【入营人数：129】 [法学院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/1edd3fc2-1217-443d-8aee-aee87f8da4f3?yxsdm=066)
 
 【入营人数：71】 [数据与信息研究院计算机科学与技术学科（深圳）](https://www.sigs.tsinghua.edu.cn/2024/0613/c120a94892/page.htm)
 
@@ -202,6 +214,8 @@
 
 【入营人数：66】 [无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2243.htm)
 
+【入营人数：70】 [集成电路科学与工程学院](http://www.sme.buaa.edu.cn/info/1036/7567.htm)
+
 ## 北京理工大学
 
 【入营人数：212】 [网络空间安全学院](https://cst.bit.edu.cn/xxfw/gsxx/d01cfbae52a643a9a84cf50d4a649c96.htm)
@@ -251,6 +265,8 @@
 【入营人数：210】 [信息科学与工程学院](https://radio.seu.edu.cn/2024/0825/c46467a500649/page.htm)
 
 【入营人数：10】 [信息科学与工程学院（补充入选）](https://radio.seu.edu.cn/2024/0822/c46467a500470/page.htm)
+
+【入营人数：16】 [苏州联合研究生院](https://smjgs.seu.edu.cn/2024/0909/c8471a502374/page.htm)
 
 【入营人数：1048】 [计算机科学与工程学院、软件学院、苏州联合研究生院计算机技术/人工智能方向](https://cse.seu.edu.cn/2024/0817/c49342a499858/page.htm)
 
