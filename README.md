@@ -22,6 +22,8 @@
 
 【入营人数：34】 [天基网络与通信全国重点实验室-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/ff60422d-2bc8-4ade-9079-9de2f07699eb?yxsdm=023)
 
+【入营人数：3】 [柔性电子技术实验室研究生项目（电子工程系）-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/5c45a0fa-7d29-4caf-a4a4-f669b04e0464?yxsdm=023)
+
 【入营人数：54】 [生物医学工程学院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/656502e9-bcda-4f24-b213-ba1fa601a481?yxsdm=502)
 
 【入营人数：38】 [电子信息（生物医学工程）-深圳-直硕-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/cfdbd71a-136c-4ef7-ad93-e050be3d5a37?yxsdm=599)
@@ -29,6 +31,8 @@
 【入营人数：151】 [求真书院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/aea21499-9480-49a2-8920-d79f314ef620?yxsdm=476)
 
 【入营人数：129】 [法学院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/1edd3fc2-1217-443d-8aee-aee87f8da4f3?yxsdm=066)
+
+【入营人数：3】 [控制科学与工程学科-深圳-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/4de8aa16-4920-48a2-80f6-485da008fbb3?yxsdm=599)
 
 【入营人数：71】 [数据与信息研究院计算机科学与技术学科（深圳）](https://www.sigs.tsinghua.edu.cn/2024/0613/c120a94892/page.htm)
 
@@ -265,6 +269,8 @@
 【入营人数：210】 [信息科学与工程学院](https://radio.seu.edu.cn/2024/0825/c46467a500649/page.htm)
 
 【入营人数：10】 [信息科学与工程学院（补充入选）](https://radio.seu.edu.cn/2024/0822/c46467a500470/page.htm)
+
+【入营人数：55】 [国优计划](https://xxgk.seu.edu.cn/2024/0909/c10807a502472/page.htm)
 
 【入营人数：16】 [苏州联合研究生院](https://smjgs.seu.edu.cn/2024/0909/c8471a502374/page.htm)
 
