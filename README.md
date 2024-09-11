@@ -16,6 +16,26 @@
 
 【入营人数：60】 [网络科学与网络空间研究院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/93cd80bd-418a-4fa9-8172-defdb36cc694?yxsdm=412)
 
+【入营人数：38】 [电子信息（大数据工程）-深圳-直硕-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/c4791413-eb0c-434e-b8c7-d0169a116519?yxsdm=599)
+
+【入营人数：23】 [电子信息（互动媒体设计与技术）-深圳-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/f9632166-fed6-46e2-8239-eb9234ce7d2e?yxsdm=599)
+
+【入营人数：59】 [电子信息（人工智能）-深圳-直硕-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/c522c5d2-d3f8-496c-956a-866bb69b17ef?yxsdm=599)
+
+【入营人数：3】 [信息与通信工程学科-深圳-直博-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/373d87f5-048a-4378-ab52-f613706f2f34?yxsdm=599)
+
+【入营人数：17】 [数据科学和信息技术-深圳-直博-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/5547344a-1377-4bbf-9b68-f7a5587b39f2?yxsdm=599)
+
+【入营人数：59】 [数据科学和信息技术-深圳-直硕-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/102404bb-720d-43af-8799-ba0aa8fd0710?yxsdm=599)
+
+【入营人数：353】 [电子工程系-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/e4cea563-c803-47d6-a241-cb4d0d74c0c8?yxsdm=023)
+
+【入营人数：96】 [医学院医工交叉人才培养硕士学位项目、临床医学专业学位硕士项目-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/83d4d513-dbba-47da-b556-4a4b531e0d2d?yxsdm=500)
+
+【入营人数：50】 [人工智能学院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/6786b10d-0ad7-4d95-af4c-3455fd8a94f2?yxsdm=094)
+
+【入营人数：14】 [高等研究院-直博-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/3bc992d3-2d7d-479d-916c-6e0bf2c1dc4a?yxsdm=048)
+
 【入营人数：353】 [电子工程系-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/e4cea563-c803-47d6-a241-cb4d0d74c0c8?yxsdm=023)
 
 【入营人数：41】 [自动化系-电子信息专业大数据工程硕士项目-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/d4aeb7c6-7d86-441f-8529-25e6e38e7a5b?yxsdm=025)
