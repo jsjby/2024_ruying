@@ -20,6 +20,8 @@
 
 【入营人数：23】 [电子信息（互动媒体设计与技术）-深圳-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/f9632166-fed6-46e2-8239-eb9234ce7d2e?yxsdm=599)
 
+【入营人数：32】 [电子信息（海洋技术与工程）-深圳-推免](https://mp.weixin.qq.com/s/re1YBMGxiEsV5yTXep6gDA)
+
 【入营人数：59】 [电子信息（人工智能）-深圳-直硕-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/c522c5d2-d3f8-496c-956a-866bb69b17ef?yxsdm=599)
 
 【入营人数：3】 [信息与通信工程学科-深圳-直博-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/373d87f5-048a-4378-ab52-f613706f2f34?yxsdm=599)
@@ -107,6 +109,8 @@
 【入营人数：124】 [新材料学院](https://sam.pkusz.edu.cn/info/1032/1823.htm)
 
 ## 复旦大学
+
+【入营人数：102】 [计算机科学技术学院-工程硕博](https://cs.fudan.edu.cn/8f/84/c24277a692100/page.htm)
 
 【入营人数：88】 [微电子学院-工程硕博](https://sme.fudan.edu.cn/8c/c0/c29363a691392/page.htm)
 
