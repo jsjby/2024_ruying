@@ -20,6 +20,8 @@
 
 【入营人数：23】 [电子信息（互动媒体设计与技术）-深圳-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/f9632166-fed6-46e2-8239-eb9234ce7d2e?yxsdm=599)
 
+【入营人数：52】 [计算机技术项目-深圳-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/48e41df2-3f42-4097-8d77-27800f3bc05e?yxsdm=599)
+
 【入营人数：32】 [电子信息（海洋技术与工程）-深圳-推免](https://mp.weixin.qq.com/s/re1YBMGxiEsV5yTXep6gDA)
 
 【入营人数：59】 [电子信息（人工智能）-深圳-直硕-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/c522c5d2-d3f8-496c-956a-866bb69b17ef?yxsdm=599)
@@ -439,6 +441,8 @@
 ## 中国矿业大学
 
 【入营人数：30】 [数学学院](https://math.cumt.edu.cn/34/02/c19172a668674/page.htm)
+
+【入营人数：25】 [信息与控制工程学院-推免](https://siee.cumt.edu.cn/info/1027/5945.htm)
 
 ## 北京交通大学
 
