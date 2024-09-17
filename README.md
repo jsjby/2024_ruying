@@ -340,6 +340,8 @@
 
 ## 中山大学
 
+【入营人数：95】 [智能工程学院](https://ise.sysu.edu.cn/notice/1416796.htm)
+
 【入营人数：88】 [人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1416345.htm)
 
 【入营人数：107】 [海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1066)
