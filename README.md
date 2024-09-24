@@ -10,6 +10,24 @@
 
 ## 清华大学
 
+【入营人数：2】 [计算机技术项目-深圳-推免-调剂批次](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/65e411f5-945c-4577-bc9a-80324b8b3aff?yxsdm=599)
+
+【入营人数：4】 [数据科学和信息技术-深圳-推免-调剂批次](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/f9c1fa77-34fe-47e6-b5ed-3118c83806d5?yxsdm=599)
+
+【入营人数：7】 [电子信息（人工智能）-深圳-推免-调剂批次](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/cc6ac630-342b-4150-8c0e-02b3c64ec3f6?yxsdm=599)
+
+【入营人数：3】 [电子信息（互动媒体设计与技术）-直硕-推免-调剂批次](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/845c3421-2bce-4830-a1a0-ad40b98306a7?yxsdm=599)
+
+【入营人数：3】 [电子信息（大数据工程）-深圳-推免-调剂批次](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/5b85c77d-eb96-4c4f-8025-7a9cc240e18a?yxsdm=599)
+
+【入营人数：36】 [深圳医学科学院-深圳湾实验室联合培养博士-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/c291c963-0c56-4832-a7f5-e3a5d168a81d?yxsdm=599)
+
+【入营人数：1】 [电子信息（海洋技术与工程）-深圳-推免-调剂批次](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/6aaa62fc-1938-428a-abda-8c580b5079db?yxsdm=599)
+
+【入营人数：11】 [医学院-推免-调剂批次](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/2909be04-4ce6-4353-9c0b-db0b4a929582?yxsdm=500)
+
+【入营人数：17】 [数据科学和信息技术-深圳-直博-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/5547344a-1377-4bbf-9b68-f7a5587b39f2?yxsdm=599)
+
 【入营人数：140】 [计算机科学与技术系-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/c71e8c67-d235-4d1c-9c90-84a363175130?yxsdm=024)
 
 【入营人数：161】 [软件学院-推免](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/8456af32-f0ce-464c-9eef-cf4e261c092f?yxsdm=410)
@@ -111,6 +129,8 @@
 【入营人数：124】 [新材料学院](https://sam.pkusz.edu.cn/info/1032/1823.htm)
 
 ## 复旦大学
+
+【入营人数：53】 [工程与应用技术研究院-推免](https://faet.fudan.edu.cn/95/a2/c23815a693666/page.htm)
 
 【入营人数：102】 [计算机科学技术学院-工程硕博](https://cs.fudan.edu.cn/8f/84/c24277a692100/page.htm)
 
@@ -216,6 +236,12 @@
 
 ## 国防科技大学
 
+【入营人数：5】 [计算机学院-集成电路专项-推免](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13957)
+
+【入营人数：29】 [电子对抗学院-推免](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13958)
+
+【入营人数：54】 [空天科学学院-推免](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13954)
+
 【入营人数：506】 [计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13843)
 
 【入营人数：150】 [电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13844)
@@ -233,6 +259,10 @@
 【入营人数：290】 [系统工程学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13850)
 
 ## 北京航空航天大学
+
+【报名人数：485】 [计算机学院-推免](https://scse.buaa.edu.cn/info/1299/11410.htm)
+
+【入营人数：133】 [网络空间安全学院-推免](https://cst.buaa.edu.cn/info/1062/3754.htm)
 
 【报名人数：514】 [软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11323)
 
@@ -328,6 +358,10 @@
 
 【入营人数：230】 [计算机学院](https://cs.whu.edu.cn/info/1071/44691.htm)
 
+## 电子科技大学
+
+【入营人数：132】 [通信抗干扰全国重点实验室](https://www.ncl.uestc.edu.cn/info/1083/3151.htm)
+
 ## 中南大学
 
 【入营人数：120】 [大数据研究院](https://bdi.csu.edu.cn/info/1063/3337.htm)
@@ -363,6 +397,14 @@
 【入营人数：203】 [通信与电子工程学院（集成电路科学与工程学院）](http://www.cee.ecnu.edu.cn/4b/c5/c4170a609221/page.htm)
 
 ## 华中科技大学
+
+【入营人数：190】 [网络空间安全学院-推免](http://cse.hust.edu.cn/info/1079/4083.htm)
+
+【入营人数：174】 [软件学院-推免](https://sse.hust.edu.cn/info/1050/3828.htm)
+
+【入营人数：431】 [计算机科学与技术学院-推免](https://cs.hust.edu.cn/info/1439/4379.htm)
+
+【入营人数：420】 [电子信息与通信学院-推免](https://ei.hust.edu.cn/info/1150/7928.htm)
 
 【入营人数：N/A】 [网络空间安全学院](https://cse.hust.edu.cn/info/1079/4061.htm)
 
@@ -463,6 +505,8 @@
 【入营人数：63】 [信息学院](https://ie.cufe.edu.cn/info/1341/6680.htm)
 
 ## 华中师范大学
+
+【入营人数：181】 [人工智能教育学部-推免](https://foaie.ccnu.edu.cn/info/1008/7254.htm)
 
 【入营人数：79】 [计算机学院](https://cs.ccnu.edu.cn/info/1056/4352.htm)
 
