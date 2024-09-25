@@ -130,6 +130,8 @@
 
 ## 复旦大学
 
+【入营人数：28】 [智能复杂体系基础理论与关键技术实验室-推免](https://iics.fudan.edu.cn/93/62/c43157a693090/page.htm)
+
 【入营人数：53】 [工程与应用技术研究院-推免](https://faet.fudan.edu.cn/95/a2/c23815a693666/page.htm)
 
 【入营人数：102】 [计算机科学技术学院-工程硕博](https://cs.fudan.edu.cn/8f/84/c24277a692100/page.htm)
@@ -170,7 +172,15 @@
 
 ## 上海交通大学
 
-【入营人数：124】 [人工智能研究院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
+【入营人数：33】 [人工智能研究院-推免](https://ga.sjtu.edu.cn/zsgl/xxgs/ytmfsmdgscx.aspx)
+
+【入营人数：3】 [密西根学院-推免](https://ga.sjtu.edu.cn/zsgl/xxgs/ytmfsmdgscx.aspx)
+
+【入营人数：2】 [溥渊未来技术学院-推免](https://ga.sjtu.edu.cn/zsgl/xxgs/ytmfsmdgscx.aspx)
+
+【入营人数：17】 [电子信息与电气工程学院-推免](https://ga.sjtu.edu.cn/zsgl/xxgs/ytmfsmdgscx.aspx)
+
+【入营人数：61】 [智慧能源创新学院-推免](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
 
 【入营人数：181】 [密西根学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyrymdgscx.aspx)
 
@@ -259,6 +269,12 @@
 【入营人数：290】 [系统工程学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13850)
 
 ## 北京航空航天大学
+
+【报名人数：173】 [可靠性与系统工程学院-推免](https://rse.buaa.edu.cn/info/1307/4153.htm)
+
+【报名人数：3】 [软件学院软件工程专业-推免](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11429)
+
+【报名人数：180】 [软件学院-推免](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11427)
 
 【报名人数：485】 [计算机学院-推免](https://scse.buaa.edu.cn/info/1299/11410.htm)
 
@@ -374,6 +390,8 @@
 
 ## 中山大学
 
+【入营人数：86】 [智能工程学院-推免](https://ise.sysu.edu.cn/notice/1416871.htm)
+
 【入营人数：95】 [智能工程学院](https://ise.sysu.edu.cn/notice/1416796.htm)
 
 【入营人数：88】 [人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1416345.htm)
@@ -415,6 +433,8 @@
 【入营人数：48】 [光学与电子信息学院](https://oei.hust.edu.cn/info/1054/8912.htm)
 
 ## 吉林大学
+
+【入营人数：296】 [人工智能学院-推免](https://sai.jlu.edu.cn/info/1125/4799.htm)
 
 【入营人数：258】 [计算机学院](https://ccst.jlu.edu.cn/info/1229/19667.htm)
 
