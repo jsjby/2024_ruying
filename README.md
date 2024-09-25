@@ -96,6 +96,8 @@
 
 ## 北京大学
 
+【入营人数：36】 [软件与微电子学院-推免](https://www.ss.pku.edu.cn/admission/admnotice/4608.html)
+
 【入营人数：189】 [集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/16ea75fa51ff4f1ab0022403e4a7577e.htm)
 
 【入营人数：3】 [集成电路学院（第二批）](https://ic.pku.edu.cn/rcpy/yjszs/7ce07d4c2974403fac32382bf7aedc16.htm)
@@ -131,6 +133,20 @@
 ## 复旦大学
 
 【入营人数：28】 [智能复杂体系基础理论与关键技术实验室-推免](https://iics.fudan.edu.cn/93/62/c43157a693090/page.htm)
+
+【入营人数：25】 [大数据学院-推免](https://sds.fudan.edu.cn/92/8b/c17701a692875/page.htm)
+
+【入营人数：25】 [大数据学院-推免](https://sds.fudan.edu.cn/92/8b/c17701a692875/page.htm)
+
+【入营人数：36】 [类脑智能科学与技术研究院-推免](https://istbi.fudan.edu.cn/info/1167/6450.htm)
+
+【入营人数：26】 [工程与应用技术研究院-集成电路产业专项班-推免](https://faet.fudan.edu.cn/92/a6/c23815a692902/page.htm)
+
+【入营人数：36】 [脑科学研究院-推免](https://iobs.fudan.edu.cn/92/7a/c17308a692858/page.htm)
+
+【入营人数：18】 [人类表型组研究院-推免](https://hupi.fudan.edu.cn/info/1064/3806.htm)
+
+【入营人数：658】 [计算机科学技术学院-推免](https://cs.fudan.edu.cn/91/9b/c24753a692635/page.htm)
 
 【入营人数：53】 [工程与应用技术研究院-推免](https://faet.fudan.edu.cn/95/a2/c23815a693666/page.htm)
 
@@ -272,6 +288,16 @@
 
 【报名人数：173】 [可靠性与系统工程学院-推免](https://rse.buaa.edu.cn/info/1307/4153.htm)
 
+【报名人数：131】 [无人系统研究院-推免](https://wrj.buaa.edu.cn/info/1008/2321.htm)
+
+【报名人数：574】 [大装置院-推免](https://piqs.buaa.edu.cn/info/1038/2332.htm)
+
+【报名人数：120】 [人工智能学院-推免](https://iai.buaa.edu.cn/info/1024/3724.htm)
+
+【报名人数：18】 [人工智能学院-推免-强基计划](https://iai.buaa.edu.cn/info/1024/3722.htm)
+
+【报名人数：156】 [宇航学院-推免](http://www.sa.buaa.edu.cn/info/1051/10663.htm)
+
 【报名人数：3】 [软件学院软件工程专业-推免](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11429)
 
 【报名人数：180】 [软件学院-推免](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11427)
@@ -353,6 +379,8 @@
 【入营人数：523】 [集成电路学院](https://ic.seu.edu.cn/2024/0820/c47809a500351/page.htm)
 
 ## 同济大学
+
+【入营人数：19】 [设计创意学院 人工智能与数据设计方向-推免](https://tjdi.tongji.edu.cn/NewsDetail.do?ID=5677&lang=)
 
 【入营人数：133】 [卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3568.htm)
 
@@ -460,6 +488,14 @@
 
 ## 山东大学
 
+【入营人数：30】 [空间科学与物理学院-控制工程 大数据分享-推免](https://apd.wh.sdu.edu.cn/info/1334/16893.htm)
+
+【入营人数：28】 [数据科学研究院-推免](https://dsi.sdu.edu.cn/info/1093/3904.htm)
+
+【入营人数：581】 [计算机科学与技术学院-推免](https://www.cs.sdu.edu.cn/info/1068/6381.htm)
+
+【入营人数：40】 [计算机科学与技术学院-推免-第二批次](https://www.cs.sdu.edu.cn/info/1068/6382.htm)
+
 【入营人数：46】 [数据科学研究院](https://dsi.sdu.edu.cn/info/1093/3803.htm)
 
 【入营人数：4】 [数据科学研究院（递补）](https://dsi.sdu.edu.cn/info/1093/3815.htm)
@@ -523,6 +559,8 @@
 ## 中央财经大学
 
 【入营人数：63】 [信息学院](https://ie.cufe.edu.cn/info/1341/6680.htm)
+
+【入营人数：16】 [信息学院-推免](https://ie.cufe.edu.cn/info/1341/6736.htm)
 
 ## 华中师范大学
 
@@ -635,6 +673,15 @@
 ## 云南大学
 
 【入营人数：41】 [软件学院](http://www.sei.ynu.edu.cn/info/1057/2346.htm)
+
+## 合肥工业大学
+
+【入营人数：31】 [计算机与信息学院(人工智能学院)、软件学院-推免](https://ci.hfut.edu.cn/info/1063/15067.htm)
+
+## 北京外国语大学
+
+【入营人数：36】 [人工智能与人类语言重点实验室-推免](https://ai.bfsu.edu.cn/info/1072/1600.htm)
+
 
 
 
